@@ -127,7 +127,7 @@ cat flag.txt
 ## 🎉 Flag
 
 ```
-picoCTF{rs4_k3y_1n_1mg_66388eb3}
+picoCTF{REDACTED}
 ```
 
 ---

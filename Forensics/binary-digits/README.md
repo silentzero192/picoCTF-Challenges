@@ -1,4 +1,4 @@
-# Binary Digits
+# Binary Digits PicoCTF Writeup
 
 ## Challenge
 

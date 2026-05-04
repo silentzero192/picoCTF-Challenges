@@ -1,1 +1,0 @@
-picoCTF{the_answer_lies_hidden_in_plain_sight}
